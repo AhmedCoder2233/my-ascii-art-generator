@@ -1,0 +1,12 @@
+{
+  "theme": "Default",
+  "mcpServers": {
+       "github": {
+            "httpUrl": "https://api.githubcopilot.com/mcp/",
+            "headers": {
+                "Authorization": "<MY_GITHUB_PAT>"
+            },
+            "timeout": 5000
+       }
+  }
+}
